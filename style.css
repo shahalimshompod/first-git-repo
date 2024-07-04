@@ -1,10 +1,10 @@
 .lof{
-    background-color: cornsilk;
-    height: 100px;
     margin: 25px;
     padding: 100px;
     border: 15px solid orange;
     border-radius: 50px;
+    background-image: url(./style2/grapes-5889697_1920.jpg); height: 100px;
+    
 }
 .fol{
     font-size: 50px;
@@ -12,10 +12,11 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 900;
     color: orangered;
+    
 }
 .text3{
  font-size: 12px;
- 
+ color: aliceblue;
  display: inline;
 }
 .dii{
@@ -44,3 +45,45 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 900;
 }
+.inbtn{
+    position: absolute;
+    top: 45px;
+    right: 80px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+.upbtn{
+    position: absolute;
+    top: 45px;
+    right: 140px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+.sbtn{
+    position: absolute;
+    top: 45px;
+    right: 210px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+}
+.inpt{
+    position: absolute;
+    top: 45px;
+    right: 272px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+}
+.foot{
+    background-color: black;
+    height: 250px;
+    margin: 00px;
+   padding: 10px;
+    border-radius: 50px;
+}
+.btmtext{
+   
+    
+    color: honeydew;
+    font-size: 25px;
+}
+
